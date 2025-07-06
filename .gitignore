@@ -1,0 +1,13 @@
+# Unreal Engine GitIgnore
+Saved/
+Intermediate/
+DerivedDataCache/
+*.VC.db
+*.suo
+*.user
+*.opensdf
+*.sdf
+.vscode/
+.vs/
+Binaries/
+Build/
