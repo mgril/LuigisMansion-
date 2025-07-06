@@ -34,7 +34,7 @@ This is a personal fan project built in **Unreal Engine 5.4**, aiming to recreat
 
 | Action         | Input              |
 |----------------|--------------------|
-| Move           | `ZQSD` (AZERTY) or `WASD` (QWERTY) |
+| Move           | `ZQSD` (AZERTY)    |
 | Aim flashlight | Mouse movement     |
 | Flash          | `Shift`            |
 | Capture        | `F`                |
@@ -49,7 +49,7 @@ This is a personal fan project built in **Unreal Engine 5.4**, aiming to recreat
  - Visual VFX for vacuum beam and flash
 ## To-Do / Roadmap
 
-- [ ] Improve ghost dissolve/death effects
+- Improve ghost dissolve/death effects
 
 ---
 
